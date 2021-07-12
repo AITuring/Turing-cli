@@ -1,0 +1,23 @@
+{
+  "name": "TuringCli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "turing": "./bin/turing.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AITuring/Turing-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AITuring/Turing-cli/issues"
+  },
+  "homepage": "https://github.com/AITuring/Turing-cli#readme"
+}
